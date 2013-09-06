@@ -5,7 +5,7 @@ Condense unruly arrays! I got tired of writing `my_array.flatten.uniq.compact` i
 
 Add this line to your application's Gemfile:
 
-    gem 'array-condense'
+    gem 'array-condense', require: 'array/condense'
 
 And then execute:
 
